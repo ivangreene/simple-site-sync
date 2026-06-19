@@ -4,3 +4,4 @@
 Makefile
 excluded
 .env-example
+README.md
